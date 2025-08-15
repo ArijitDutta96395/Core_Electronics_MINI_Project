@@ -61,9 +61,10 @@ The amplifier works on a **Class AB Push-Pull Configuration**:
 ---
 
 ## 📐 Circuit Diagram
-> *(Add your circuit diagram image here)*  
-
-
+<p align="center">
+  <img src="https://github.com/ArijitDutta96395/Core_Electronics_MINI_Project/blob/main/pic2.jpeg" width="500"><br>
+  <em>Fig 1: Audio Amplifier Testing Setup</em>
+</p>
 
 ---
 
@@ -117,9 +118,10 @@ This project is licensed under the **MIT License** – you are free to use, modi
 ---
 
 ## 📷 Project Images
-> *(Add images of your assembled circuit and testing setup here)*
-
-![Project Photo](project_image.png)
+<p align="center">
+  <img src="https://github.com/ArijitDutta96395/Core_Electronics_MINI_Project/blob/main/pic.jpeg" width="500"><br>
+  <em>Fig 2: Audio Amplifier Assembled Circuit</em>
+</p>
 
 ---
 
