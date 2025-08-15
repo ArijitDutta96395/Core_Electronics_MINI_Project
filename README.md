@@ -62,7 +62,7 @@ The amplifier works on a **Class AB Push-Pull Configuration**:
 
 ## 📐 Circuit Diagram
 <p align="center">
-  <img src="https://github.com/ArijitDutta96395/Core_Electronics_MINI_Project/blob/main/pic2.jpeg" width="500"><br>
+  <img src="https://github.com/ArijitDutta96395/Core_Electronics_MINI_Project/blob/main/pic2.png" width="500"><br>
   <em>Fig 1: Audio Amplifier Testing Setup</em>
 </p>
 
