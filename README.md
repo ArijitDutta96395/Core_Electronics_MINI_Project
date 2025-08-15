@@ -119,7 +119,7 @@ This project is licensed under the **MIT License** – you are free to use, modi
 
 ## 📷 Project Images
 <p align="center">
-  <img src="https://github.com/ArijitDutta96395/Core_Electronics_MINI_Project/blob/main/pic.jpeg" width="500"><br>
+  <img src="https://github.com/ArijitDutta96395/Core_Electronics_MINI_Project/blob/main/pic.png" width="500"><br>
   <em>Fig 2: Audio Amplifier Assembled Circuit</em>
 </p>
 
